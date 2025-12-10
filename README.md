@@ -1,2 +1,2 @@
-Create SQL files for prefectures, cities, towns, and blocks
-This script connects to a SQLite database and generates SQL files for prefectures, cities, towns, and blocks based on the data retrieved from the 'ad_address' table. It includes data transformation for names and handles various character encodings.
+都道府県・市区町村・町名・番地のSQLファイルを作成バッチ
+このスクリプトは住所データの SQLite データベースから、都道府県・市区町村・町名・番地ごとの SQL ファイルを作成しています。
